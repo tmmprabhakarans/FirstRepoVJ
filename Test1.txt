@@ -1,0 +1,8 @@
+FLUX
+	To add undo option
+1.	Go to C:\ProgramData\Metamation\Flux\System\
+2.	Create file experimental.ini
+3.	Add the text inside as below
+[Settings]
+Undo=1
+	
